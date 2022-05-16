@@ -1,0 +1,10 @@
+pytest==7.1.2
+allure-pytest==2.9.45
+tox==3.25.0
+requests==2.26.0
+pandas==1.4.1
+matplotlib==3.5.1
+httpx==0.21.3
+aiometer==0.3.0
+seaborn==0.11.2
+aiohttp==3.8.1
